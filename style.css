@@ -1,0 +1,118 @@
+
+.logo{
+    padding: 5px;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+.primera{
+	height: 500px;
+	background-color: #DADADA;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 10px;
+    margin: 100px;
+}
+#menu1:hover{
+	background-color:red;
+	width: ;
+}
+#menu2:hover{
+	background-color: yellow;
+}
+#menu3:hover{
+	background-color: green;
+}
+#menu4:hover{
+	background-color: orange;
+}
+li {
+    text-align: center;
+}
+section{
+	background-color: #F6F6F6;
+	height: 500px;
+}
+.monita{
+	 position: relative;
+	 border-radius:150px;
+	 margin:150px;
+	 margin-bottom: 0px;
+	 padding: 20px;
+	 margin-top:20px;
+}
+.parrafo1{
+	text-align: center;
+	font-size: 10pt;
+
+}
+.parrafo2{
+	padding: 10px;
+	text-align: center;
+	font-size: 12pt;
+}
+h1{
+	text-align: center;
+	color:#00A29F;
+	padding: 10px;
+	margin-top: 20px;
+}
+.tercero{
+	text-align: center;
+	padding: 20px;
+}
+.uno{
+	float: left;
+	width: 50%;
+}
+.dos{
+	float: right;
+	width: 50%;
+}
+.tres{
+	float: left;
+	width: 50%;
+}
+.cuatro{
+	float: right;
+	width: 50%;
+}
+.cinco{
+	float: left;
+	width: 50%;
+}
+.seis{
+	float: right;
+	width: 50%;
+}
+.curriculum{
+	text-align: center;
+	padding: 20px;
+}
+.desarrollo{
+	padding: 10px 10px;
+	font-size: 11pt;
+	margin-left: 20px;
+}
+.curriculu{
+	padding: 10px;
+	margin: 35px;
+}
+.veracruz, .cdmx{
+	background-color: #F6F6F6;
+	font-size: 10pt;
+}
+.tajin, .milan{
+	background-color: #DADADA;
+	font-size: 10pt;	
+}
+.contacto{
+	text-align: center;
+	margin-left: 500px;
+		height: 500px;
+	background-color: #DADADA;
+}
+
+
+
